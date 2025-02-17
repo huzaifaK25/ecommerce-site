@@ -1,2 +1,2 @@
-This is an ecommerce platform i am working on for practice.
+This is an e-commerce platform I am working on for practice following a Udemy course.
 Skills: HTML and CSS
